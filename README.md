@@ -16,6 +16,8 @@ Welcome to the **MCEngineAdventure** repository — a fantasy-themed plugin desi
 
 <div align="center">
 
+---
+
 # 👥 Members
 
 <table>
