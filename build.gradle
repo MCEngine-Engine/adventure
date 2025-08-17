@@ -51,7 +51,6 @@ allprojects {
         configureGitHubRepo('MCEngine Hologram API', 'https://maven.pkg.github.com/MCEngine-API/hologram')
 
         configureGitHubRepo('MCEngine ArtificialIntelligence Common', 'https://maven.pkg.github.com/MCEngine-Common/artificialintelligence')
-        configureGitHubRepo('MCEngine Adventure Common', 'https://maven.pkg.github.com/MCEngine-Common/adventure')
 
         mavenCentral()
         mavenLocal()
