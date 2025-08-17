@@ -1,0 +1,26 @@
+enable: false
+license: free
+
+# Database support
+# - sqlite
+# - mysql
+# - postgresql
+database:
+  type: sqlite
+
+  sqlite:
+    path: adventure.db
+
+  mysql:
+    host: localhost
+    port: "3306"
+    name: mcengine
+    user: root
+    password: ""
+
+  postgresql:
+    host: localhost
+    port: "5432"
+    name: mcengine
+    user: postgres
+    password: ""

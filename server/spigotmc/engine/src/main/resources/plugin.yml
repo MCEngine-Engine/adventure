@@ -1,0 +1,6 @@
+name: MCEngineAdventure
+version: ${version}
+main: io.github.mcengine.spigotmc.adventure.engine.MCEngineAdventureSpigotMC
+author: MCEngine
+description: MCEngine Adventure
+api-version: 1.13
